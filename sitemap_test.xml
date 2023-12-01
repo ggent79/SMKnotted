@@ -22,4 +22,32 @@
     <url><loc>https://www.knotted.ch/corporate</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
     <url><loc>https://www.knotted.ch/news</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
     <url><loc>https://www.knotted.ch/contact</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+
+    <!-- URL in Italiano -->
+    <url><loc>https://www.knotted.ch/it</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>1.00</priority></url>
+    <url><loc>https://www.knotted.ch/it/ticino</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/real-estate</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/fiscal-system</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/health-care</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/education</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/lifestyle</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/corporate</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/news</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/it/contact</loc><lastmod>2023-12-01T16:26:39+00:00</lastmod><priority>0.80</priority></url>
+    
+<!-- URL in Francese -->
+<url><loc>https://www.knotted.ch/fr</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>1.00</priority></url>
+<url><loc>https://www.knotted.ch/fr/ticino</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/real-estate</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/fiscal-system</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/health-care</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/education</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/lifestyle</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/corporate</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/news</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://www.knotted.ch/fr/contact</loc><lastmod>2023-12-01T16:30:17+00:00</lastmod><priority>0.80</priority></url>
+
+
+
 </urlset>
+
