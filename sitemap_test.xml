@@ -1,0 +1,25 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- URL in Tedesco -->
+    <url><loc>https://www.knotted.ch/de</loc><lastmod>2023-12-01</lastmod><priority>1.00</priority></url>
+    <url><loc>https://www.knotted.ch/de/ticino</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/real-estate</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/fiscal-system</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/health-care</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/education</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/lifestyle</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/corporate</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/news</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/de/contact</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+
+    <!-- URL in Inglese -->
+    <url><loc>https://www.knotted.ch/</loc><lastmod>2023-12-01</lastmod><priority>1.00</priority></url>
+    <url><loc>https://www.knotted.ch/ticino</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/real-estate</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/fiscal-system</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/health-care</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/education</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/lifestyle</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/corporate</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/news</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+    <url><loc>https://www.knotted.ch/contact</loc><lastmod>2023-12-01</lastmod><priority>0.80</priority></url>
+</urlset>
