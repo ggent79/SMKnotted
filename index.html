@@ -1,10 +1,15 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
   <title>Reindirizzamento</title>
-  <meta http-equiv="refresh" content="0;url=https://raw.githubusercontent.com/ggent79/SMKnotted/main/sitemap_test.xml" />
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', (event) => {
+      if(window.location.pathname.endsWith('/sitemap_test.xml')){
+        window.location.href = 'https://raw.githubusercontent.com/ggent79/SMKnotted/main/sitemap_test.xml';
+      }
+    });
+  </script>
 </head>
 <body>
-  Se non sei reindirizzato automaticamente, <a href="https://raw.githubusercontent.com/ggent79/SMKnotted/main/sitemap_test.xml">clicca qui</a>.
 </body>
 </html>
