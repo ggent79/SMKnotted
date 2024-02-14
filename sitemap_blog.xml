@@ -166,9 +166,6 @@
 
 
 
-
-
-
     <!-- French Blog Posts -->
     <url>
         <loc>https://www.knotted.ch/fr/post/découverte-du-tessin-un-guide-des-meilleurs-endroits-où-vivre-pour-les-expatriés</loc>
@@ -270,6 +267,11 @@
         <loc>https://www.knotted.ch/es/post/ticino-tu-destino-de-reubicación</loc>
         <lastmod>2024-02-12</lastmod>
     </url>
+    <url>
+        <loc>https://www.knotted.ch/es/post/abrazando-ticino-una-guía-para-la-integración-cultural-de-expatriados</loc>
+        <lastmod>2024-02-14</lastmod>
+    </url>
+
 
 
 
@@ -323,6 +325,11 @@
         <loc>https://www.knotted.ch/ar/post/تيتشينو-وجهتك-للانتقال</loc>
         <lastmod>2024-02-13</lastmod>
     </url>
+   <url>
+        <loc>https://www.knotted.ch/ar/post/احتضان-تيتشينو-دليل-للاندماج-الثقافي-للمغتربين</loc>
+        <lastmod>2024-02-14</lastmod>
+    </url>
+
 
 
 
